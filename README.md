@@ -7,7 +7,7 @@ GHCN is the official archived dataset, and it serves as a replacement product fo
 (i.e., DSI 3200, DSI 3201, DSI 3202, DSI 3205, DSI 3206, DSI 3208, DSI 3210, etc.).
 
 <p align="center">
-  <img src="https://github.com/thiwankajayasiri/GHCN/blob/master/climate.jpg" width="650" title="Chart-Selection">
+  <img src="https://github.com/thiwankajayasiri/GHCN/blob/master/climate.jpg" width="350" title="Chart-Selection">
 </p>
 
 The work was conducted using PySpark. Please follow the [Report](https://github.com/thiwankajayasiri/GHCN/blob/master/Assignment%20Report.pdf)
